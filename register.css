@@ -1,0 +1,21 @@
+.center-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.form-container {
+  padding: 1.5rem;
+  background-color: white;
+  width: 25%;
+  border-radius: 0.5rem;
+}
+
+img[alt="direction"]{
+  height: auto;
+  width: auto;
+}
+
+
